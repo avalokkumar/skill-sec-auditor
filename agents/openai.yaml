@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Security Auditor"
+  short_description: "Audit a downloaded SKILL file for prompt injection and supply-chain risk"
+  default_prompt: "Use $skill-sec-auditor to audit this downloaded skill file and give me a VERDICT before I enable it."
